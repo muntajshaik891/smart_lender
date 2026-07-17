@@ -1,0 +1,5 @@
+Flask
+panadas
+numpy
+scikit-learn
+pickle-mixin
